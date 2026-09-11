@@ -1,0 +1,5 @@
+# Placeholder agent config for xuanmu.
+# Adjust this file according to your Codex / image model environment.
+name: xuanmu
+version: 1.0.0
+description: Chinese knowledge editorial illustration skill with Xuanmu IP and blue-yellow-black builder style.
